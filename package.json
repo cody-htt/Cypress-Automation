@@ -1,0 +1,15 @@
+{
+  "name": "cy-automation-framework",
+  "version": "1.0.0",
+  "description": "Demo Web Automation Testing Using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TungH",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.7.0",
+    "cypress-xpath": "^1.6.2"
+  }
+}
